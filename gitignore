@@ -1,0 +1,38 @@
+# Python
+pycache/
+*.py[cod]
+*.so
+*.egg-info/
+dist/
+build/
+
+# Виртуальное окружение
+venv/
+.venv/
+env/
+
+# Секреты
+.env
+secrets.ini
+config.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Системные файлы
+.DS_Store
+Thumbs.db
+
+# Логи
+*.log
+logs/
+
+# Временные файлы
+temp/
+tmp/
+
+# Фото и загруженные файлы
+downloads/
+uploads/
